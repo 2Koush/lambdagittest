@@ -1,7 +1,7 @@
 import json
 
 def lambda_handler(event, context):
-    print("Hello 1")
+    print("Hello 2")
 
     return {
         'statusCode': 200,
